@@ -16,6 +16,6 @@
     "jsxImportSource": "@emotion/react",
     "baseUrl": "."
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "script/upload-news.js"],
   "exclude": ["node_modules"]
 }
